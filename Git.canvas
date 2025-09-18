@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"d48075f889f264fa","type":"text","text":"# How git Works","x":-580,"y":-260,"width":250,"height":60},
-		{"id":"ab4f00685b99059c","type":"file","file":"Git/Git is not what you think.md","x":-140,"y":-720,"width":660,"height":1000}
+		{"id":"ab4f00685b99059c","type":"file","file":"Git/Git is not what you think.md","x":-1440,"y":-1360,"width":480,"height":1000},
+		{"id":"24542aaa62dad98d","x":-880,"y":-1080,"width":450,"height":720,"type":"file","file":"Git/Branches Demystified.md"},
+		{"id":"d48075f889f264fa","type":"text","text":"# How git Works","x":-780,"y":0,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"6babaeefebee4c5c","fromNode":"d48075f889f264fa","fromSide":"right","toNode":"ab4f00685b99059c","toSide":"left"}
+		{"id":"0ac9806c424588e1","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"ab4f00685b99059c","toSide":"bottom"},
+		{"id":"9cec66e7d9f79630","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"24542aaa62dad98d","toSide":"bottom"}
 	]
 }

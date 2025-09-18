@@ -19,3 +19,21 @@ Get compressed file
  - compressed with a header 
  - git get-file -p SHA1hash
 
+ **What is a commit  ??
+
+- Its a document which have 
+  - Value storage (key) (tree = directory)
+  - Author
+  - Committer
+  - Message
+
+**Versioning
+
+- The commits are linked with a parent, which is the SHA1 hash of the previous commit
+- Git change de hash when some document has changed
+- And for other documents, its uses the same object, with the same hash, that's why git is efficient 
+
+Basic ... git is a versioning file system
+
+
+  

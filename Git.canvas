@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ab4f00685b99059c","type":"file","file":"Git/Git is not what you think.md","x":-20,"y":-600,"width":580,"height":680},
+		{"id":"d48075f889f264fa","type":"text","text":"# How git Works","x":-580,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6babaeefebee4c5c","fromNode":"d48075f889f264fa","fromSide":"right","toNode":"ab4f00685b99059c","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ab4f00685b99059c","type":"file","file":"Git/How Git Works/Git is not what you think.md","x":-1440,"y":-1360,"width":480,"height":1000},
+		{"id":"24542aaa62dad98d","type":"file","file":"Git/How Git Works/Branches Demystified.md","x":-880,"y":-1080,"width":450,"height":720},
+		{"id":"effbcce2abefbe7a","type":"file","file":"Git/How Git Works/Rebasing Made Simple.md","x":-360,"y":-1360,"width":400,"height":1000},
+		{"id":"9634b252c84d72ca","type":"file","file":"Git/How Git Works/Distributed Version Control.md","x":120,"y":-1500,"width":380,"height":1140},
+		{"id":"d48075f889f264fa","type":"text","text":"# How git Works","x":-520,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0ac9806c424588e1","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"ab4f00685b99059c","toSide":"bottom"},
+		{"id":"9cec66e7d9f79630","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"24542aaa62dad98d","toSide":"bottom"},
+		{"id":"3c0303c8c3bd1c49","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"effbcce2abefbe7a","toSide":"bottom"},
+		{"id":"114d7a4866f76a4f","fromNode":"d48075f889f264fa","fromSide":"top","toNode":"9634b252c84d72ca","toSide":"bottom"}
+	]
+}

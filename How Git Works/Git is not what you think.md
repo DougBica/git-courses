@@ -11,7 +11,7 @@ Basic idea
 Values and Keys
 -  Key  = blob/tree/commit/annotated tag
  - Value = hash SHA1 for the content
- - git hash-obejct 
+ - git hash-object 
 
 Every object in Git has its own SHA1
 
